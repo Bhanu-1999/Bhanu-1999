@@ -16,10 +16,19 @@ Infrastructure Automation: Leveraged Terraform and Ansible to ensure consistent 
 Containerization & Orchestration: Built containerized applications with Docker, orchestrated using Kubernetes.
 Monitoring & Alerting: Configured monitoring solutions for proactive system health tracking.
 
+📂 Projects & Contributions
+Here are some hands-on projects I’m proud of:
+
+CI/CD Pipeline Implementation: Automated builds, tests, and deployments with Jenkins and Git for rapid delivery.
+Multi-Tier Infrastructure Automation: Created infrastructure as code for multi-tier applications using Terraform and Ansible on AWS.
+Containerization & Kubernetes: Deployed scalable, containerized applications, managing workloads and resources through Kubernetes.
+Web Application Deployment: Automated deployment of a web application in a Dockerized environment on AWS using Ansible and Jenkins.
+
 📫 Let’s Connect!
+I'm always eager to connect with fellow tech enthusiasts and professionals. Whether you have an exciting project idea, are interested in collaborating, or simply want to chat about DevOps, cloud technology, or the latest in tech, don't hesitate to reach out!
 Email: bhanusritanneru@gmail.com
-LinkedIn: Bhanu Sri Tanneru
-ePortfolio: Bhanu Sri's ePortfolio
+LinkedIn: https://www.linkedin.com/in/bhanusritanneru/
+ePortfolio: https://eportfolio.mygreatlearning.com/tanneru-bhanu-sri
 
 🌟 Final Thoughts
 In the world of DevOps, each challenge is an opportunity to build stronger, smarter solutions. I'm passionate about transforming ideas into reality through scalable, automated workflows that drive efficiency and innovation. Whether it’s creating robust CI/CD pipelines, automating infrastructure, or enhancing system resilience, I’m dedicated to continuous growth and collaboration. Let’s connect and create impactful solutions together! 🚀
